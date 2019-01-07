@@ -1,9 +1,9 @@
 # calculatorApp
 
-![First snip: ](./calculatorApp/calc-1.PNG)
+![First snip: ](./calc-1.png?raw=true)
 
-![Second snip: ](./calc-2.png)
+![Second snip: ](./calc-2.png?raw=true)
 
-![Third snip: ](./calc-3.png)
+![Third snip: ](./calc-3.png?raw=true)
 
-![Fourth snip: ](./calc-4.png)
+![Fourth snip: ](./calc-4.png?raw=true)
