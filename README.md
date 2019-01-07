@@ -2,8 +2,8 @@
 
 ![First snip: ](https://github.com/mikefili/calculatorApp/blob/master/calc-1.PNG)
 
-![Second snip: ](./calc-2.png?raw=true)
+![Second snip: ](https://github.com/mikefili/calculatorApp/blob/master/calc-2.PNG)
 
-![Third snip: ](./calc-3.png?raw=true)
+![Third snip: ](https://github.com/mikefili/calculatorApp/blob/master/calc-3.PNG)
 
-![Fourth snip: ](./calc-4.png?raw=true)
+![Fourth snip: ](https://github.com/mikefili/calculatorApp/blob/master/calc-4.PNG)
