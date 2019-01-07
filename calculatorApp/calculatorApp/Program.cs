@@ -5,24 +5,24 @@ namespace calculatorApp
     class Program
     {
         // declare global variables
-        private static int answer;
-        private static int num1;
-        private static int num2;
+        private static decimal answer;
+        private static decimal num1;
+        private static decimal num2;
         private static string operation;
 
         // Main method
         public static void Main(string[] args)
         {
-            // request first number from user & convert to int
-            Console.Write("Pick a number: ");
-            num1 = Convert.ToInt32(Console.ReadLine());
+            // request first number from user & convert to decimal
+            Console.WriteLine("Pick a number: ");
+            num1 = Convert.ToDecimal(Console.ReadLine());
 
-            // request second number from user & convert to int
-            Console.Write("Pick another number: ");
-            num2 = Convert.ToInt32(Console.ReadLine());
+            // request second number from user & convert to decimal
+            Console.WriteLine("Pick another number: ");
+            num2 = Convert.ToDecimal(Console.ReadLine());
 
-            // request operand
-            Console.Write("+, -, /, or *?: ");
+            // request operand from user
+            Console.WriteLine("+, -, /, or *?: ");
             operation = Console.ReadLine();
 
             // switch statement utilizing different operands by case
