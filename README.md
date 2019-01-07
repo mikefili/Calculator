@@ -1,9 +1,13 @@
 # calculatorApp
 
-![First snip: ](./calc-1.png?raw=true)
+First Snip:
+![First snip: ](https://github.com/mikefili/calculatorApp/blob/master/calc-1.PNG "First Snip")
 
-![Second snip: ](./calc-2.png?raw=true)
+Second Snip:
+![Second snip: ](https://github.com/mikefili/calculatorApp/blob/master/calc-2.PNG "Second Snip")
 
-![Third snip: ](./calc-3.png?raw=true)
+Third Snip:
+![Third snip: ](https://github.com/mikefili/calculatorApp/blob/master/calc-3.PNG "Third Snip")
 
-![Fourth snip: ](./calc-4.png?raw=true)
+Fourth Snip:
+![Fourth snip: ](https://github.com/mikefili/calculatorApp/blob/master/calc-4.PNG "Fourth Snip")
