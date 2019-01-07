@@ -14,11 +14,11 @@ namespace calculatorApp
             Console.Write("Pick a number: ");
             num1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("+, -, /, or *?: ");
-            operation = Console.ReadLine();
-
             Console.Write("Pick another number: ");
             num2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("+, -, /, or *?: ");
+            operation = Console.ReadLine();
 
             switch (operation)
             {
