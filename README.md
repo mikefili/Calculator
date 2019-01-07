@@ -1,6 +1,6 @@
 # calculatorApp
 
-![First snip: ](./calc-1.png)
+![First snip: ](./calculatorApp/calc-1.PNG)
 
 ![Second snip: ](./calc-2.png)
 
