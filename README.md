@@ -1,6 +1,6 @@
 # calculatorApp
 
-![First snip: ](./calc-1.png?raw=true)
+![First snip: ](/mikefili/calculatorApp/blob/master/calc-1.PNG)
 
 ![Second snip: ](./calc-2.png?raw=true)
 
