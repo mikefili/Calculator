@@ -4,7 +4,7 @@ namespace calculatorApp
 {
     class Program
     {
-        // declare global variables
+        // declare variables by data type
         private static decimal answer;
         private static decimal num1;
         private static decimal num2;
@@ -50,7 +50,7 @@ namespace calculatorApp
             }
 
             // print result to console
-            Console.WriteLine("Result: " + answer.ToString());
+            Console.WriteLine($"Result: {answer}");
             // press any key to close console app
             Console.ReadLine();
         }
